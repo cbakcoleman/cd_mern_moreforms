@@ -45,7 +45,7 @@ const UserForm = (props) => {
         // CONSOLE LOG TO SEE WHAT'S GOING ON
         console.log(newUser);
         // CONSOLE LOG WELCOME
-        console.log("Welcome" + " " + firstname + " " + lastname)
+        console.log("Welcome " + firstname + " " + lastname)
         // RESET INPUT FIELDS?
         setFirstname("");
         setLastname("");
